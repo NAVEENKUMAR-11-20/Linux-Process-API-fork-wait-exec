@@ -46,7 +46,7 @@ int main() {
 
 
 ##OUTPUT
-![](img/forkckeck.png)
+[![](img/forkckeck.png)](https://github.com/Mageshofficial2007/Linux-Process-API-fork-wait-exec/blob/main/img/forkckeck.png)
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
 
@@ -94,7 +94,7 @@ int main() {
 
 ##OUTPUT
 
-![](img/exitwait.png)
+[![](img/exitwait.png)](https://github.com/Mageshofficial2007/Linux-Process-API-fork-wait-exec/blob/main/img/exitwait.png)
 
 # RESULT:
 The programs are executed successfully.
